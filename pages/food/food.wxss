@@ -1,0 +1,17 @@
+/* pages/food/food.wxss */
+.button{
+    margin-top: 200rpx
+}
+page{
+    background-color: #555555
+}
+
+.font{
+ font-size: 50px;
+ font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: white   
+}
+
+.food{
+    margin-top: 50rpx
+}

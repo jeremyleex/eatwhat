@@ -1,0 +1,10 @@
+<!--food.wxml-->
+<view class="container">
+  <view class="food">
+    <text class="font">{{food[n]}}</text>
+  </view>
+  <view class="button">
+  <button type="primary" bindtap="btnClick">{{btnText}}</button>
+  </view>
+
+</view>
